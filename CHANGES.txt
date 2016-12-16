@@ -1,0 +1,8 @@
+CHANGES
+*******
+
+1.2.0 (2016-12-16)
+==================
+
+- Created a fanstatic for jquery-loadmask-spin (https://github.com/iloveitaly/jquery.loadmask.spin)
+
